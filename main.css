@@ -84,7 +84,6 @@ body {
   25% { transform: scale(1.2); }
   50% { transform: scale(1); }
 }
-
 .flowers {
   position: relative;
   transform: scale(0.9);
